@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello from Smart Go Academy
+          Hello everyone from Smart Go Academy
         </a>
       </header>
     </div>

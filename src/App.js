@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello everyone from Smart Go Academy
+          Hello 你好嗎? To everyone from Smart Go Academy
         </a>
+        // testing branch
       </header>
     </div>
   );

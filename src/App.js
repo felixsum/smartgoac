@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello everyone from Smart Go Academy, 5 March 2021
+          Greeting from Smart Go Academy, 6 March 2021
         </a>
       </header>
     </div>

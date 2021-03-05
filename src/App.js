@@ -15,13 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
+
           Hello 你好嗎? To everyone from Smart Go Academy
-=======
-          Hello everyone from Smart Go Academy, 5 March 2021
->>>>>>> master
+
         </a>
-        // testing branch
+
       </header>
     </div>
   );

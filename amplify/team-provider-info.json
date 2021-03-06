@@ -16,5 +16,23 @@
         "smartgoacd165014b": {}
       }
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smartgoac-dev-231516-authRole",
+      "UnauthRoleArn": "arn:aws:iam::644268730919:role/amplify-smartgoac-dev-231516-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::644268730919:role/amplify-smartgoac-dev-231516-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-smartgoac-dev-231516-deployment",
+      "UnauthRoleName": "amplify-smartgoac-dev-231516-unauthRole",
+      "StackName": "amplify-smartgoac-dev-231516",
+      "StackId": "arn:aws:cloudformation:eu-west-2:644268730919:stack/amplify-smartgoac-dev-231516/c2e97e30-7e8e-11eb-9267-025639e48b10",
+      "AmplifyAppId": "d3l9keeh3jfe8u"
+    },
+    "categories": {
+      "auth": {
+        "smartgoacd165014b": {}
+      }
+    }
   }
 }

@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "smartgoacd165014b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
